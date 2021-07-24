@@ -33,13 +33,6 @@ airflow db init
 
 airflow webserver -p 8080
 
- ____________       _____________
- ____    |__( )_________  __/__  /________      __
-____  /| |_  /__  ___/_  /_ __  /_  __ \_ | /| / /
-___  ___ |  / _  /   _  __/ _  / / /_/ /_ |/ |/ /
- _/_/  |_/_/  /_/    /_/    /_/  \____/____/|__/
- 
-
 7. Create airflow admin user
 
 Admin --username admin --email admin --firstname admin --lastname admin --password admin
